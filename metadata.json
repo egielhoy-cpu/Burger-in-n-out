@@ -1,0 +1,6 @@
+{
+  "name": "In-N-Out Burger - Quality You Can Taste",
+  "description": "A high-performance, responsive restaurant website for In-N-Out Burger, featuring a location finder, menu exploration, and career opportunities.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["modern-ui", "responsive-design", "location-services"]
+}
